@@ -19,3 +19,8 @@ To run the Apollo Mission Explorer app on your iOS device, follow these steps:
 2. Open the project in Xcode.
 3. Build and run the project on your iOS device or simulator.
 4. Explore and enjoy the fascinating world of Apollo missions!
+
+
+## App Demo
+https://github.com/Lance-Town/Moonshot/assets/85811392/078dfd3d-c10b-4ba7-b0cd-294e493b8315
+
